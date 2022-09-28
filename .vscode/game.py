@@ -17,5 +17,4 @@ while counts > 0:
             print("大啦~")
     counts = counts - 1
 
-print("游戏结束，不玩^_^")
-    
+print("游戏结束，不玩啦^_^")
